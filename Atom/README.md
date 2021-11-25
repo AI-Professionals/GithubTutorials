@@ -1,5 +1,6 @@
 # AtomTutorials
 
+![image](https://user-images.githubusercontent.com/56000213/143327965-c64b9225-bd48-489b-88ae-d052fbabf96c.png)
 
 ## Install package from setting
 
