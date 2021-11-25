@@ -1,6 +1,7 @@
 # AtomTutorials
 
-https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg
+![Atom_editor_logo svg](https://user-images.githubusercontent.com/56000213/143328031-9eaf9aa9-aac9-48d0-8457-44c01a5b7d45.png)
+
 
 ## Install package from setting
 
